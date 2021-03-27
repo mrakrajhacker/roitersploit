@@ -8,6 +8,6 @@ cd routersploit
 ls
 cd routersploit
 ls
-
-
-
+chmod 777 README.md
+ls
+python2 README.md
