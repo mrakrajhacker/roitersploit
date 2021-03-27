@@ -6,8 +6,8 @@ git clone https://github.com/mrakrajhacker/routersploit.git
 ls
 cd routersploit 
 ls
-
-
+cd routersploit
+ls
 
 
 
